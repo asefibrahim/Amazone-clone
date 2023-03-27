@@ -1,0 +1,30 @@
+.header-container {
+    background-color: rgb(1, 25, 44);
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.anchor {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-right: 100px;
+
+}
+
+.anchor a {
+    margin-left: 20px;
+    text-decoration: none;
+    color: aliceblue;
+
+}
+
+.header-container img {
+    width: 200px;
+    margin-left: 80px;
+
+}
