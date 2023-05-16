@@ -2,3 +2,17 @@
     margin: 50px auto;
 
 }
+
+.checkout {
+
+    width: 90%;
+    align-items: center;
+    height: 37px;
+    margin: 10px auto;
+
+    background-color: rgb(255, 132, 0);
+    border-radius: 8px;
+    border: 1px solid orange;
+    color: white;
+    padding: 5px 10px;
+}

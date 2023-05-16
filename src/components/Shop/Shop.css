@@ -19,3 +19,14 @@
     background-color: #d5b078;
     margin-left: 40px;
 }
+
+.pagination {
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.pagination .selected {
+    background-color: goldenrod;
+    color: aliceblue;
+}

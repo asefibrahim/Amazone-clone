@@ -2,3 +2,23 @@
     position: sticky;
     top: 0;
 }
+
+.btn-clear {
+    display: flex;
+    width: 90%;
+    align-items: center;
+    height: 37px;
+    margin: 10px auto;
+    justify-content: space-between;
+    background-color: rgb(242, 64, 64);
+    border-radius: 8px;
+    border: 1px solid orange;
+    color: white;
+    padding: 5px 10px;
+}
+
+.icon {
+    width: 25px;
+    height: 25px;
+
+}
